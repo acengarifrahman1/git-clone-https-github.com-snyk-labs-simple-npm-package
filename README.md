@@ -1,0 +1,1 @@
+# git-clone-https-github.com-snyk-labs-simple-npm-package
